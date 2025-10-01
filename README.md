@@ -1,13 +1,13 @@
 <h1 align="center">
-   👋 Welcome to My GitHub World <span style="color:#ff4d88;"></span>
+   👋 Welcome to My GitHub World
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Arsema13&label=Profile%20Views&color=ff4d88&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<p align="center" style="border: 4px solid #ff4d88; border-radius: 15px; padding: 15px; display: inline-block; box-shadow: 0 0 20px #ff4d88, 0 0 40px #ff80ab;">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF4D88&center=true&width=600&lines=Hi!+I+am+Arsema+Tewodros;I+Build+Web+%26+Mobile+Apps;Always+Learning+%26+Coding+%F0%9F%8C%B8" alt="Typing Animation"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=FF4D88&center=true&width=600&lines=Hi!+I+am+Arsema+Tewodros;I+Build+Web+%26+Mobile+Apps;Always+Learning+%26+Coding+🌸" alt="Typing Animation"/>
 </p>
 
 ---
@@ -35,33 +35,35 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arsema13&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff4d88&icon_color=ff4d88" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arsema13&theme=rose_pine&hide_border=true&ring=ff4d88&fire=ff4d88&currStreakLabel=ff4d88" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff4d88&icon_color=ff4d88&t=1" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arsema13&theme=rose_pine&hide_border=true&ring=ff4d88&fire=ff4d88&currStreakLabel=ff4d88&t=1" height="180px"/>
 </p>
+
+---
 
 ### 🏷️ Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsema13&layout=compact&theme=rose_pine&hide_border=true&langs_count=6&title_color=ff4d88&text_color=ff80ab" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsema13&layout=compact&theme=rose_pine&hide_border=true&langs_count=6&title_color=ff4d88&text_color=ff80ab&t=1" alt="Most Used Languages"/>
 </p>
 
 ---
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsema13&theme=rose_pine&hide_border=true&bg_color=1A1B27&line=ff4d88&point=ff80ab&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsema13&theme=rose_pine&hide_border=true&bg_color=1A1B27&line=ff4d88&point=ff80ab&area=true&t=1" alt="Contribution Graph"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arsema13&theme=rose_pine&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Arsema13&theme=rose_pine&no-frame=true&row=1&column=6&t=1" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine&t=1" alt="Dev Quote"/>
 </p>
 
 ---
@@ -110,5 +112,5 @@
 ---
 
 <p align="center">
-  <em> Arsema Tewodros 2025 🌸</em>
+  <em>✨ Arsema Tewodros 2025 🌸 ✨</em>
 </p>
