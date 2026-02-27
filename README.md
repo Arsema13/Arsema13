@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine" alt="Dev Quote"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F06292&center=true&vCenter=true&width=500&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.%22" alt="Dev Quote" />
 </p>
 
 <p align="center">
