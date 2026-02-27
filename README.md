@@ -79,9 +79,7 @@
   <a href="https://github.com/Arsema13"><img src="https://img.shields.io/badge/GitHub-FF4D88?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=F06292&center=true&vCenter=true&width=600&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22" alt="Changing Quotes" />
-</p>
+
 
 <p align="center">
   <em> Arsema Tewodros 2026 🌸</em>
