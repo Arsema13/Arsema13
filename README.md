@@ -18,23 +18,22 @@
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ My Tech Stack & Proficiency
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-F06292?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-95%25-F06292?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-90%25-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-85%25-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-90%25-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-90%25-777BB4?style=flat-square&logo=php&logoColor=white" />
 </p>
 
 ---
 
 ### 📂 Featured Projects
-*All projects from my portfolio, categorized for easy browsing*
+*A complete list of my work, categorized by platform*
 
-#### 📱 Mobile Development (Flutter)
+#### 📱 Mobile Apps (Flutter)
 <p align="center">
   <a href="https://github.com/Arsema13/Medvora_Pharmacy_App"><img src="https://img.shields.io/badge/💊_Medvora_Pharmacy-FF4D88?style=for-the-badge" /></a>
   <a href="https://github.com/Arsema13/kid-s-learning-platfrom"><img src="https://img.shields.io/badge/🎨_Kids_Learning-FF80AB?style=for-the-badge" /></a>
@@ -49,7 +48,7 @@
   <a href="https://github.com/Arsema13/flutter_Funfact_app"><img src="https://img.shields.io/badge/💡_FunFact_App-FF80AB?style=for-the-badge" /></a>
 </p>
 
-#### 🌐 Web & AI
+#### 🌐 Web, AI & Practice
 <p align="center">
   <a href="https://github.com/Arsema13/printing-service"><img src="https://img.shields.io/badge/🖨️_Printing_Order_Web-F06292?style=for-the-badge" /></a>
   <a href="https://github.com/Arsema13/pa"><img src="https://img.shields.io/badge/🤖_Portfolio_AI-FF4D88?style=for-the-badge" /></a>
@@ -59,23 +58,14 @@
 
 ---
 
-### 📊 Stats & Language Insights
+### 📈 Activity & Growth
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff4d88&icon_color=ff4d88" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsema13&layout=compact&theme=rose_pine&hide_border=true&langs_count=7&title_color=ff4d88&text_color=ff80ab" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arsema13&theme=rose_pine&hide_border=true&ring=ff4d88&fire=ff4d88&currStreakLabel=ff4d88" height="170px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arsema13&theme=rose_pine&hide_border=true&ring=ff4d88&fire=ff4d88&currStreakLabel=ff4d88" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/Arsema13">
-    <img src="https://github-profile-trophy.vercel.app/?username=Arsema13&theme=rose_pine&no-frame=true&row=1&column=6" alt="Arsema's Trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsema13&theme=rose_pine&hide_border=true&bg_color=1A1B27&line=ff4d88&point=ff80ab&area=true" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
