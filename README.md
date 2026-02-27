@@ -32,30 +32,29 @@
 ---
 
 ### 📂 Featured Projects
-*Clean and structured showcase of my work*
+*All projects from my portfolio, categorized for easy browsing*
 
+#### 📱 Mobile Development (Flutter)
 <p align="center">
-  <a href="https://github.com/Arsema13/Medvora_Pharmacy_App">
-    <img src="https://img.shields.io/badge/💊_Medvora_Pharmacy-FF4D88?style=for-the-badge&logo=flutter&logoColor=white" />
-  </a>
-  <a href="https://github.com/uvatarkind/Guade_study-buddy_flutter">
-    <img src="https://img.shields.io/badge/📚_Study_Buddy-FF80AB?style=for-the-badge&logo=flutter&logoColor=white" />
-  </a>
-  <a href="https://github.com/Arsema13/printing-service">
-    <img src="https://img.shields.io/badge/🖨️_Printing_Service-F06292?style=for-the-badge&logo=php&logoColor=white" />
-  </a>
+  <a href="https://github.com/Arsema13/Medvora_Pharmacy_App"><img src="https://img.shields.io/badge/💊_Medvora_Pharmacy-FF4D88?style=for-the-badge" /></a>
+  <a href="https://github.com/Arsema13/kid-s-learning-platfrom"><img src="https://img.shields.io/badge/🎨_Kids_Learning-FF80AB?style=for-the-badge" /></a>
+  <a href="https://github.com/Arsema13/flutter_news_app"><img src="https://img.shields.io/badge/📰_News_App-F06292?style=for-the-badge" /></a>
+  <a href="https://github.com/Arsema13/flutter_weather_app"><img src="https://img.shields.io/badge/☁️_Weather_App-FF4D88?style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Arsema13/kid-s-learning-platfrom">
-    <img src="https://img.shields.io/badge/🎨_Kids_Learning-FF4D88?style=for-the-badge&logo=flutter&logoColor=white" />
-  </a>
-  <a href="https://github.com/Arsema13/pa">
-    <img src="https://img.shields.io/badge/🤖_Portfolio_AI-FF80AB?style=for-the-badge&logo=openai&logoColor=white" />
-  </a>
-  <a href="https://github.com/Arsema13/flutter_weather_app">
-    <img src="https://img.shields.io/badge/☁️_Weather_App-F06292?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  </a>
+  <a href="https://github.com/uvatarkind/Guade_study-buddy_flutter"><img src="https://img.shields.io/badge/📚_Study_Buddy-FF80AB?style=for-the-badge" /></a>
+  <a href="https://github.com/Arsema13/flutter_quiz_app"><img src="https://img.shields.io/badge/🧠_Quiz_App-F06292?style=for-the-badge" /></a>
+  <a href="https://github.com/Arsema13/flutter_BMI_Calculator"><img src="https://img.shields.io/badge/⚖️_BMI_Calculator-FF4D88?style=for-the-badge" /></a>
+  <a href="https://github.com/Arsema13/flutter_Funfact_app"><img src="https://img.shields.io/badge/💡_FunFact_App-FF80AB?style=for-the-badge" /></a>
+</p>
+
+#### 🌐 Web & AI
+<p align="center">
+  <a href="https://github.com/Arsema13/printing-service"><img src="https://img.shields.io/badge/🖨️_Printing_Order_Web-F06292?style=for-the-badge" /></a>
+  <a href="https://github.com/Arsema13/pa"><img src="https://img.shields.io/badge/🤖_Portfolio_AI-FF4D88?style=for-the-badge" /></a>
+  <a href="https://github.com/Arsema13/campus-menu-compass-IP2"><img src="https://img.shields.io/badge/🧭_Compass_Menu-FF80AB?style=for-the-badge" /></a>
+  <a href="https://github.com/Arsema13/2025-project-phase-mobile-tasks-gdg-group-1"><img src="https://img.shields.io/badge/🎯_GDG_Practices-F06292?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -63,7 +62,7 @@
 ### 📊 Stats & Language Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff4d88&icon_color=ff4d88" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsema13&layout=compact&theme=rose_pine&hide_border=true&langs_count=6&title_color=ff4d88&text_color=ff80ab" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsema13&layout=compact&theme=rose_pine&hide_border=true&langs_count=7&title_color=ff4d88&text_color=ff80ab" height="170px"/>
 </p>
 
 <p align="center">
@@ -74,7 +73,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/Arsema13">
     <img src="https://github-profile-trophy.vercel.app/?username=Arsema13&theme=rose_pine&no-frame=true&row=1&column=6" alt="Arsema's Trophies" />
   </a>
 </p>
