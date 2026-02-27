@@ -30,38 +30,45 @@
 
 ---
 
-### 📂 The Master Portfolio
-*Click to expand and view my repositories*
+### 📂 Featured Projects
+*A visual showcase of my best work*
 
-<details open>
-<summary><b>📱 Mobile Masterpieces (Flutter)</b></summary>
-<p align="left">
-  <a href="https://github.com/Arsema13/Medvora_Pharmacy_App"><code>Medvora Pharmacy</code></a> • 
-  <a href="https://github.com/Arsema13/kid-s-learning-platfrom"><code>Kids Learning</code></a> • 
-  <a href="https://github.com/Arsema13/flutter_news_app"><code>News Pro</code></a> • 
-  <a href="https://github.com/Arsema13/flutter_weather_app"><code>Live Weather</code></a> • 
-  <a href="https://github.com/uvatarkind/Guade_study-buddy_flutter"><code>Study Buddy</code></a> • 
-  <a href="https://github.com/Arsema13/flutter_quiz_app"><code>Quiz Master</code></a> • 
-  <a href="https://github.com/Arsema13/flutter_BMI_Calculator"><code>BMI Calc</code></a> • 
-  <a href="https://github.com/Arsema13/flutter_Funfact_app"><code>FunFacts</code></a>
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=400" width="45%" alt="Medvora App" />
+  <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=400" width="45%" alt="Study Buddy App" />
 </p>
-</details>
+<p align="center">
+  <strong>Medvora Pharmacy App</strong> | <strong>Study Buddy App</strong> <br>
+  <a href="https://github.com/Arsema13/Medvora_Pharmacy_App">📂 Repo</a> • <a href="https://github.com/uvatarkind/Guade_study-buddy_flutter">📂 Repo</a>
+</p>
 
-<details>
-<summary><b>🌐 Web & AI Solutions</b></summary>
-<p align="left">
-  <a href="https://github.com/Arsema13/printing-service"><code>Custom Printing E-shop</code></a> • 
-  <a href="https://github.com/Arsema13/pa"><code>Portfolio AI Agent</code></a> • 
-  <a href="https://github.com/Arsema13/campus-menu-compass-IP2"><code>Compass Menu UI</code></a> • 
-  <a href="https://github.com/Arsema13/2025-project-phase-mobile-tasks-gdg-group-1"><code>GDG Labs</code></a>
+<br>
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1562654501-a0ccc0af3fb1?q=80&w=400" width="45%" alt="Printing App" />
+  <img src="https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?q=80&w=400" width="45%" alt="Kids Learning" />
 </p>
-</details>
+<p align="center">
+  <strong>Printing Order Website</strong> | <strong>Kids Learning App</strong> <br>
+  <a href="https://github.com/Arsema13/printing-service">📂 Repo</a> • <a href="https://github.com/Arsema13/kid-s-learning-platfrom">📂 Repo</a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400" width="45%" alt="Portfolio AI" />
+  <img src="https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?q=80&w=400" width="45%" alt="Weather App" />
+</p>
+<p align="center">
+  <strong>Portfolio AI</strong> | <strong>Weather Forecast App</strong> <br>
+  <a href="https://github.com/Arsema13/pa">📂 Repo</a> • <a href="https://github.com/Arsema13/flutter_weather_app">📂 Repo</a>
+</p>
 
 ---
 
 ### 📊 GitHub Insights
 <p align="center">
- 
+  <img src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff4d88&icon_color=ff4d88" height="170px" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Arsema13&theme=rose_pine&hide_border=true&ring=ff4d88&fire=ff4d88&currStreakLabel=ff4d88" height="170px" alt="GitHub Streak" />
 </p>
 
