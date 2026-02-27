@@ -1,5 +1,5 @@
 <h1 align="center">
-   👋 Welcome to My GitHub World <span style="color:#ff4d88;"></span>
+  👋 Welcome to My GitHub World <span style="color:#ff4d88;"></span>
 </h1>
 
 <p align="center">
@@ -13,23 +13,33 @@
 ---
 
 ### 💫 About Me
-- 🌸 Passionate **Web & Mobile Developer**  
-- 💻 Skilled in **HTML, CSS, PHP, MySQL, Flutter, JavaScript**  
-- 🚀 Always learning & building creative projects  
-- 🎀 Love blending **tech + design** to create unique solutions  
-- 🔗 Check out my **[Portfolio](https://your-portfolio-link.com)**   
+- 🌸 Passionate **Web & Mobile Developer** - 💻 Skilled in **Flutter, React, Node.js, PHP, and MySQL** - 🚀 Pursuing Software Engineering at **Addis Ababa Science & Technology University** - 🎀 Love blending **tech + design** to create unique solutions  
+- 🔗 Check out my **[Live Portfolio](https://your-portfolio-link.com)** (Update this link!)
 
 ---
 
 ### 🛠️ My Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-FF4D88?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-FF80AB?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F06292?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/PHP-FF4D88?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-FF80AB?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Flutter-F06292?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Flutter-F06292?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+---
+
+### 📂 Featured Projects
+*Mirroring the layout of my portfolio website*
+
+| Project | Preview | Links |
+| :--- | :---: | :--- |
+| **Medvora Pharmacy App**<br>Modern Flutter app connecting users with pharmacies. | <img src="https://raw.githubusercontent.com/Arsema13/Medvora_Pharmacy_App/main/preview.png" width="200" alt="Medvora"/> | [📂 Repo](https://github.com/Arsema13/Medvora_Pharmacy_App) |
+| **Study Buddy App**<br>Collaboration tool for students to share notes and study. | <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=200" width="200" alt="Study Buddy"/> | [📂 Repo](https://github.com/uvatarkind/Guade_study-buddy_flutter) |
+| **Printing Order Website**<br>E-commerce platform for custom logo printing. | <img src="https://images.unsplash.com/photo-1562564055-71e051d33c19?w=200" width="200" alt="Printing"/> | [📂 Repo](https://github.com/Arsema13/printing-service) |
+| **Kids Learning App**<br>Educational Flutter app for basic skills. | <img src="https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=200" width="200" alt="Kids App"/> | [📂 Repo](https://github.com/Arsema13/kid-s-learning-platfrom) |
+| **Portfolio AI**<br>Trained AI model to answer questions about my work. | <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?w=200" width="200" alt="AI"/> | [📂 Repo](https://github.com/Arsema13/pa) |
 
 ---
 
@@ -39,16 +49,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=arsema13&theme=rose_pine&hide_border=true&ring=ff4d88&fire=ff4d88&currStreakLabel=ff4d88" height="180px"/>
 </p>
 
-### 🏷️ Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsema13&layout=compact&theme=rose_pine&hide_border=true&langs_count=6&title_color=ff4d88&text_color=ff80ab" alt="Most Used Languages"/>
-</p>
-
----
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsema13&theme=rose_pine&hide_border=true&bg_color=1A1B27&line=ff4d88&point=ff80ab&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -60,55 +62,17 @@
 
 ---
 
+### 🌍 Contact & Connect
+<p align="center">
+  <a href="mailto:arsematewodros123@gmail.com"><img src="https://img.shields.io/badge/Email-FF4D88?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arsema-tewodros-783b41370/"><img src="https://img.shields.io/badge/LinkedIn-FF4D88?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/Lilyteoes"><img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine" alt="Dev Quote"/>
 </p>
 
----
-
-### 💻 Projects
-<p align="center">
-  <!-- Row 1 -->
-  <a href="https://github.com/Arsema13/flutter_quiz_app">
-    <img src="https://img.shields.io/badge/Quiz-App-FF4D88?style=for-the-badge" alt="Quiz App"/>
-  </a>
-  <a href="https://github.com/Arsema13/flutter_BMI_Calculator">
-    <img src="https://img.shields.io/badge/BMI-Calculator-FF80AB?style=for-the-badge" alt="BMI"/>
-  </a>
-  <a href="https://github.com/Arsema13/flutter_news_app">
-    <img src="https://img.shields.io/badge/News-App-F06292?style=for-the-badge" alt="News"/>
-  </a>
-</p>
-
-<p align="center">
-  <!-- Row 2 -->
-  <a href="https://github.com/Arsema13/campus-menu-compass-IP2">
-    <img src="https://img.shields.io/badge/Compass--Menu--Website-FF4D88?style=for-the-badge" alt="Compass Menu"/>
-  </a>
-  <a href="https://github.com/Arsema13/flutter_weather_app">
-    <img src="https://img.shields.io/badge/Weather-App-FF80AB?style=for-the-badge" alt="Weather"/>
-  </a>
-  <a href="https://github.com/Arsema13/flutter_Funfact_app">
-    <img src="https://img.shields.io/badge/FunFact-App-F06292?style=for-the-badge" alt="FunFact"/>
-  </a>
-  <a href="https://github.com/kurazTeam10/yegna-gebeya">
-    <img src="https://img.shields.io/badge/Ecommerce-App-FF4D88?style=for-the-badge" alt="Ecommerce App"/>
-  </a>
-</p>
-
----
-
-### 🌍 Contact
-<p align="center">
-  <a href="mailto:arsematewodros123@gmail.com"><img src="https://img.shields.io/badge/Email-FF4D88?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Arsema13"><img src="https://img.shields.io/badge/GitHub-FF4D88?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
- <a href="https://www.linkedin.com/in/arsema-tewodros-783b41370/">
-  <img src="https://img.shields.io/badge/LinkedIn-FF4D88?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-</p>
-
----
-
 <p align="center">
   <em> Arsema Tewodros 2025 🌸</em>
-</p>  
+</p>
