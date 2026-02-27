@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F06292&center=true&vCenter=true&width=500&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad.%22" alt="Dev Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=F06292&center=true&vCenter=true&width=600&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares.%22;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22" alt="Changing Quotes" />
 </p>
 
 <p align="center">
