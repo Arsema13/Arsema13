@@ -31,7 +31,7 @@
 ---
 
 ### 📂 Featured Projects
-*A visual showcase of my best work*
+*A visual showcase and categorized library of my work*
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=400" width="45%" alt="Medvora App" />
@@ -44,24 +44,26 @@
 
 <br>
 
+#### 📱 Mobile Development (Flutter)
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1562654501-a0ccc0af3fb1?q=80&w=400" width="45%" alt="Printing App" />
-  <img src="https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?q=80&w=400" width="45%" alt="Kids Learning" />
+  <a href="https://github.com/Arsema13/Medvora_Pharmacy_App"><img src="https://img.shields.io/badge/💊_Medvora_Pharmacy-FF4D88?style=for-the-badge" /></a>
+  <a href="https://github.com/Arsema13/kid-s-learning-platfrom"><img src="https://img.shields.io/badge/🎨_Kids_Learning-FF80AB?style=for-the-badge" /></a>
+  <a href="https://github.com/Arsema13/flutter_news_app"><img src="https://img.shields.io/badge/📰_News_App-F06292?style=for-the-badge" /></a>
+  <a href="https://github.com/Arsema13/flutter_weather_app"><img src="https://img.shields.io/badge/☁️_Weather_App-FF4D88?style=for-the-badge" /></a>
 </p>
 <p align="center">
-  <strong>Printing Order Website</strong> | <strong>Kids Learning App</strong> <br>
-  <a href="https://github.com/Arsema13/printing-service">📂 Repo</a> • <a href="https://github.com/Arsema13/kid-s-learning-platfrom">📂 Repo</a>
+  <a href="https://github.com/uvatarkind/Guade_study-buddy_flutter"><img src="https://img.shields.io/badge/📚_Study_Buddy-FF80AB?style=for-the-badge" /></a>
+  <a href="https://github.com/Arsema13/flutter_quiz_app"><img src="https://img.shields.io/badge/🧠_Quiz_App-F06292?style=for-the-badge" /></a>
+  <a href="https://github.com/Arsema13/flutter_BMI_Calculator"><img src="https://img.shields.io/badge/⚖️_BMI_Calculator-FF4D88?style=for-the-badge" /></a>
+  <a href="https://github.com/Arsema13/flutter_Funfact_app"><img src="https://img.shields.io/badge/💡_FunFact_App-FF80AB?style=for-the-badge" /></a>
 </p>
 
-<br>
-
+#### 🌐 Web & AI
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400" width="45%" alt="Portfolio AI" />
-  <img src="https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?q=80&w=400" width="45%" alt="Weather App" />
-</p>
-<p align="center">
-  <strong>Portfolio AI</strong> | <strong>Weather Forecast App</strong> <br>
-  <a href="https://github.com/Arsema13/pa">📂 Repo</a> • <a href="https://github.com/Arsema13/flutter_weather_app">📂 Repo</a>
+  <a href="https://github.com/Arsema13/printing-service"><img src="https://img.shields.io/badge/🖨️_Printing_Order_Web-F06292?style=for-the-badge" /></a>
+  <a href="https://github.com/Arsema13/pa"><img src="https://img.shields.io/badge/🤖_Portfolio_AI-FF4D88?style=for-the-badge" /></a>
+  <a href="https://github.com/Arsema13/campus-menu-compass-IP2"><img src="https://img.shields.io/badge/🧭_Compass_Menu-FF80AB?style=for-the-badge" /></a>
+  <a href="https://github.com/Arsema13/2025-project-phase-mobile-tasks-gdg-group-1"><img src="https://img.shields.io/badge/🎯_GDG_Practices-F06292?style=for-the-badge" /></a>
 </p>
 
 ---
