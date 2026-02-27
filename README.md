@@ -14,7 +14,9 @@
 
 ### 💫 About Me
 - 🌸 Passionate **Web & Mobile Developer** - 💻 Skilled in **Flutter, React, Node.js, PHP, and Firebase** - 🚀 Pursuing Software Engineering at **Addis Ababa Science & Technology University** - 🎀 Love blending **tech + design** to create unique solutions  
-- 🔗 Check out my **[Live Portfolio](https://arsema13.github.io/)** ---
+- 🔗 Check out my **[Live Portfolio](https://arsema13.github.io/)**
+
+---
 
 ### 🛠️ My Tech Stack
 <p align="center">
@@ -30,56 +32,51 @@
 ---
 
 ### 📂 Featured Projects
-*A glimpse into my latest work*
+*Clean and structured showcase of my work*
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=400" width="45%" alt="Medvora App" />
-  <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=400" width="45%" alt="Study Buddy App" />
-</p>
-<p align="center">
-  <strong>Medvora Pharmacy App</strong> | <strong>Study Buddy App</strong> <br>
-  <a href="https://github.com/Arsema13/Medvora_Pharmacy_App">Repo</a> • <a href="https://github.com/uvatarkind/Guade_study-buddy_flutter">Repo</a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1562654501-a0ccc0af3fb1?q=80&w=400" width="45%" alt="Printing App" />
-  <img src="https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?q=80&w=400" width="45%" alt="Kids Learning" />
-</p>
-<p align="center">
-  <strong>Printing Order Website</strong> | <strong>Kids Learning App</strong> <br>
-  <a href="https://github.com/Arsema13/printing-service">Repo</a> • <a href="https://github.com/Arsema13/kid-s-learning-platfrom">Repo</a>
+  <a href="https://github.com/Arsema13/Medvora_Pharmacy_App">
+    <img src="https://img.shields.io/badge/💊_Medvora_Pharmacy-FF4D88?style=for-the-badge&logo=flutter&logoColor=white" />
+  </a>
+  <a href="https://github.com/uvatarkind/Guade_study-buddy_flutter">
+    <img src="https://img.shields.io/badge/📚_Study_Buddy-FF80AB?style=for-the-badge&logo=flutter&logoColor=white" />
+  </a>
+  <a href="https://github.com/Arsema13/printing-service">
+    <img src="https://img.shields.io/badge/🖨️_Printing_Service-F06292?style=for-the-badge&logo=php&logoColor=white" />
+  </a>
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=400" width="45%" alt="Portfolio AI" />
-  <img src="https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?q=80&w=400" width="45%" alt="Weather App" />
-</p>
-<p align="center">
-  <strong>Portfolio AI</strong> | <strong>Weather Forecast App</strong> <br>
-  <a href="https://github.com/Arsema13/pa">Repo</a> • <a href="https://github.com/Arsema13/flutter_weather_app">Repo</a>
+  <a href="https://github.com/Arsema13/kid-s-learning-platfrom">
+    <img src="https://img.shields.io/badge/🎨_Kids_Learning-FF4D88?style=for-the-badge&logo=flutter&logoColor=white" />
+  </a>
+  <a href="https://github.com/Arsema13/pa">
+    <img src="https://img.shields.io/badge/🤖_Portfolio_AI-FF80AB?style=for-the-badge&logo=openai&logoColor=white" />
+  </a>
+  <a href="https://github.com/Arsema13/flutter_weather_app">
+    <img src="https://img.shields.io/badge/☁️_Weather_App-F06292?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 📊 Stats & Insights
+### 📊 Stats & Language Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff4d88&icon_color=ff4d88" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arsema13&theme=rose_pine&hide_border=true&ring=ff4d88&fire=ff4d88&currStreakLabel=ff4d88" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff4d88&icon_color=ff4d88" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsema13&layout=compact&theme=rose_pine&hide_border=true&langs_count=6&title_color=ff4d88&text_color=ff80ab" height="170px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsema13&layout=compact&theme=rose_pine&hide_border=true&langs_count=6&title_color=ff4d88&text_color=ff80ab" alt="Most Used Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arsema13&theme=rose_pine&hide_border=true&ring=ff4d88&fire=ff4d88&currStreakLabel=ff4d88" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arsema13&theme=rose_pine&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Arsema13&theme=rose_pine&no-frame=true&row=1&column=6" alt="Arsema's Trophies" />
+  </a>
 </p>
 
 ---
