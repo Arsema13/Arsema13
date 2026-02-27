@@ -12,27 +12,26 @@
 
 ---
 
-### 🌸 My Digital Garden
-| **Currently Learning** | **Daily Rituals** | **Future Goals** |
-| :--- | :--- | :--- |
-| 🚀 Advanced AI Integration | ☕ Coffee & Clean Code | 📱 Publishing to App Store |
-| 🎨 UI/UX Micro-interactions | 📖 Tech Blogs | 🌍 Open Source Contributor |
-| 🏗️ Scalable Architecture | 🛠️ Bug Hunting | 🎓 Engineering Degree |
-
----
-
-### 🛠️ Proficiency Levels
+### 🛠️ Tech Stack & Proficiency
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-Expert-F06292?style=for-the-badge&logo=flutter" />
   <img src="https://img.shields.io/badge/Firebase-Advanced-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-Pro-339933?style=for-the-badge&logo=nodedotjs" />
+  <img src="https://img.shields.io/badge/JavaScript-Fluent-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
+
+### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsema13&theme=rose_pine&hide_border=true&bg_color=1A1B27&line=ff4d88&point=ff80ab&area=true" width="100%" alt="Arsema's Contribution Graph" />
 </p>
 
 ---
 
 ### 📂 The Master Portfolio
-*Click the badges to view the source code*
+*Click to expand and view my repositories*
 
 <details open>
 <summary><b>📱 Mobile Masterpieces (Flutter)</b></summary>
@@ -60,14 +59,7 @@
 
 ---
 
-### 🎮 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Arsema13/Arsema13/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
-### 📈 Coding Activity
+### 📊 GitHub Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff4d88&icon_color=ff4d88" height="170px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Arsema13&theme=rose_pine&hide_border=true&ring=ff4d88&fire=ff4d88&currStreakLabel=ff4d88" height="170px" />
