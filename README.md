@@ -31,18 +31,7 @@
 ---
 
 ### 📂 Featured Projects
-*A visual showcase and categorized library of my work*
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1576091160550-2173dba999ef?q=80&w=400" width="45%" alt="Medvora App" />
-  <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=400" width="45%" alt="Study Buddy App" />
-</p>
-<p align="center">
-  <strong>Medvora Pharmacy App</strong> | <strong>Study Buddy App</strong> <br>
-  <a href="https://github.com/Arsema13/Medvora_Pharmacy_App">📂 Repo</a> • <a href="https://github.com/uvatarkind/Guade_study-buddy_flutter">📂 Repo</a>
-</p>
-
-<br>
+*A categorized library of my web and mobile applications*
 
 #### 📱 Mobile Development (Flutter)
 <p align="center">
