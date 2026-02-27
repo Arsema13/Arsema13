@@ -30,8 +30,8 @@
 
 ---
 
-### 📂 Featured Projects
-*A categorized library of my web and mobile applications*
+### Projects
+
 
 #### 📱 Mobile Development (Flutter)
 <p align="center">
@@ -59,7 +59,7 @@
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff4d88&icon_color=ff4d88" height="170px" alt="GitHub Stats" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Arsema13&theme=rose_pine&hide_border=true&ring=ff4d88&fire=ff4d88&currStreakLabel=ff4d88" height="170px" alt="GitHub Streak" />
 </p>
 
