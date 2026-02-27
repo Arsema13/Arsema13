@@ -61,17 +61,24 @@
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff4d88&icon_color=ff4d88" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arsema13&theme=rose_pine&hide_border=true&ring=ff4d88&fire=ff4d88&currStreakLabel=ff4d88" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff4d88&icon_color=ff4d88" height="170px" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arsema13&theme=rose_pine&hide_border=true&ring=ff4d88&fire=ff4d88&currStreakLabel=ff4d88" height="170px" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🌍 Let's Build Something Together
+
 <p align="center">
-  <a href="mailto:arsematewodros123@gmail.com"><img src="https://img.shields.io/badge/Email-FF4D88?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/arsema-tewodros-783b41370/"><img src="https://img.shields.io/badge/LinkedIn-FF4D88?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/Lilyteoes"><img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/Lilyteoes">
+    <img src="https://img.shields.io/badge/CONTACT%20ME%20ON%20TELEGRAM-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:arsematewodros123@gmail.com"><img src="https://img.shields.io/badge/Email-FF4D88?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arsema-tewodros-783b41370/"><img src="https://img.shields.io/badge/LinkedIn-FF4D88?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Arsema13"><img src="https://img.shields.io/badge/GitHub-FF4D88?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
