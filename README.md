@@ -23,6 +23,18 @@
 
 ---
 
+### 📊 GitHub Insights & Performance
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff4d88&icon_color=ff80ab&text_color=e0def4" height="170px" alt="Arsema's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arsema13&theme=rose_pine&hide_border=true&ring=ff4d88&fire=ff4d88&currStreakLabel=ff4d88" height="170px" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsema13&layout=compact&theme=rose_pine&hide_border=true&title_color=ff4d88&text_color=e0def4" height="170px" alt="Most Used Languages" />
+</p>
+
+---
+
 ### 📈 Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsema13&theme=rose_pine&hide_border=true&bg_color=1A1B27&line=ff4d88&point=ff80ab&area=true" width="100%" alt="Arsema's Contribution Graph" />
@@ -31,7 +43,6 @@
 ---
 
 ### Projects
-
 
 #### 📱 Mobile Development (Flutter)
 <p align="center">
@@ -57,14 +68,6 @@
 
 ---
 
-### 📊 GitHub Insights
-<p align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arsema13&theme=rose_pine&hide_border=true&ring=ff4d88&fire=ff4d88&currStreakLabel=ff4d88" height="170px" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🌍 Let's Build Something Together
 
 <p align="center">
@@ -78,8 +81,6 @@
   <a href="https://www.linkedin.com/in/arsema-tewodros-783b41370/"><img src="https://img.shields.io/badge/LinkedIn-FF4D88?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Arsema13"><img src="https://img.shields.io/badge/GitHub-FF4D88?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
-
-
 
 <p align="center">
   <em> Arsema Tewodros 2026 🌸</em>
