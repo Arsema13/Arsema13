@@ -27,9 +27,11 @@
 ### 📊 GitHub Insights & Performance
 
 <p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&count_private=true&include_all_commits=true&theme=rose_pine&hide_border=true&title_color=ff4d88&icon_color=ff80ab&text_color=e0def4" height="170px" alt="Arsema's GitHub Stats" />
 
-  <img src="https://streak-stats.demolab.com/?user=Arsema13&theme=rose_pine&hide_border=true&ring=ff4d88&fire=ff4d88&currStreakLabel=ff4d88&sideLabels=ff4d88&sideNums=ff80ab&dates=e0def4&starting_year=2020" height="170px" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Arsema13&theme=rose_pine&hide_border=true&ring=ff4d88&fire=ff4d88&currStreakLabel=ff4d88&sideLabels=ff4d88&sideNums=ff80ab&dates=e0def4&disable_animations=true" height="170px" alt="GitHub Streak" />
+
 </p>
 
 <p align="center">
@@ -51,26 +53,59 @@
 #### 📱 Mobile Development (Flutter)
 
 <p align="center">
-  <a href="https://github.com/Arsema13/Medvora_Pharmacy_App"><img src="https://img.shields.io/badge/💊_Medvora_Pharmacy-FF4D88?style=for-the-badge" /></a>
-  <a href="https://github.com/Arsema13/kid-s-learning-platfrom"><img src="https://img.shields.io/badge/🎨_Kids_Learning-FF80AB?style=for-the-badge" /></a>
-  <a href="https://github.com/Arsema13/flutter_news_app"><img src="https://img.shields.io/badge/📰_News_App-F06292?style=for-the-badge" /></a>
-  <a href="https://github.com/Arsema13/flutter_weather_app"><img src="https://img.shields.io/badge/☁️_Weather_App-FF4D88?style=for-the-badge" /></a>
+  <a href="https://github.com/Arsema13/Medvora_Pharmacy_App">
+    <img src="https://img.shields.io/badge/💊_Medvora_Pharmacy-FF4D88?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/Arsema13/kid-s-learning-platfrom">
+    <img src="https://img.shields.io/badge/🎨_Kids_Learning-FF80AB?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/Arsema13/flutter_news_app">
+    <img src="https://img.shields.io/badge/📰_News_App-F06292?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/Arsema13/flutter_weather_app">
+    <img src="https://img.shields.io/badge/☁️_Weather_App-FF4D88?style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/uvatarkind/Guade_study-buddy_flutter"><img src="https://img.shields.io/badge/📚_Study_Buddy-FF80AB?style=for-the-badge" /></a>
-  <a href="https://github.com/Arsema13/flutter_quiz_app"><img src="https://img.shields.io/badge/🧠_Quiz_App-F06292?style=for-the-badge" /></a>
-  <a href="https://github.com/Arsema13/flutter_BMI_Calculator"><img src="https://img.shields.io/badge/⚖️_BMI_Calculator-FF4D88?style=for-the-badge" /></a>
-  <a href="https://github.com/Arsema13/flutter_Funfact_app"><img src="https://img.shields.io/badge/💡_FunFact_App-FF80AB?style=for-the-badge" /></a>
+  <a href="https://github.com/uvatarkind/Guade_study-buddy_flutter">
+    <img src="https://img.shields.io/badge/📚_Study_Buddy-FF80AB?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/Arsema13/flutter_quiz_app">
+    <img src="https://img.shields.io/badge/🧠_Quiz_App-F06292?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/Arsema13/flutter_BMI_Calculator">
+    <img src="https://img.shields.io/badge/⚖️_BMI_Calculator-FF4D88?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/Arsema13/flutter_Funfact_app">
+    <img src="https://img.shields.io/badge/💡_FunFact_App-FF80AB?style=for-the-badge" />
+  </a>
 </p>
 
 #### 🌐 Web & AI
 
 <p align="center">
-  <a href="https://github.com/Arsema13/printing-service"><img src="https://img.shields.io/badge/🖨️_Printing_Order_Web-F06292?style=for-the-badge" /></a>
-  <a href="https://github.com/Arsema13/pa"><img src="https://img.shields.io/badge/🤖_Portfolio_AI-FF4D88?style=for-the-badge" /></a>
-  <a href="https://github.com/Arsema13/campus-menu-compass-IP2"><img src="https://img.shields.io/badge/🧭_Compass_Menu-FF80AB?style=for-the-badge" /></a>
-  <a href="https://github.com/Arsema13/2025-project-phase-mobile-tasks-gdg-group-1"><img src="https://img.shields.io/badge/🎯_GDG_Practices-F06292?style=for-the-badge" /></a>
+  <a href="https://github.com/Arsema13/printing-service">
+    <img src="https://img.shields.io/badge/🖨️_Printing_Order_Web-F06292?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/Arsema13/pa">
+    <img src="https://img.shields.io/badge/🤖_Portfolio_AI-FF4D88?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/Arsema13/campus-menu-compass-IP2">
+    <img src="https://img.shields.io/badge/🧭_Compass_Menu-FF80AB?style=for-the-badge" />
+  </a>
+
+  <a href="https://github.com/Arsema13/2025-project-phase-mobile-tasks-gdg-group-1">
+    <img src="https://img.shields.io/badge/🎯_GDG_Practices-F06292?style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -84,9 +119,17 @@
 </p>
 
 <p align="center">
-  <a href="mailto:arsematewodros123@gmail.com"><img src="https://img.shields.io/badge/Email-FF4D88?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/arsema-tewodros-783b41370/"><img src="https://img.shields.io/badge/LinkedIn-FF4D88?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Arsema13"><img src="https://img.shields.io/badge/GitHub-FF4D88?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:arsematewodros123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF4D88?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/arsema-tewodros-783b41370/">
+    <img src="https://img.shields.io/badge/LinkedIn-FF4D88?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Arsema13">
+    <img src="https://img.shields.io/badge/GitHub-FF4D88?style=flat-square&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
