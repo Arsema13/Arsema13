@@ -27,15 +27,13 @@
 ### 📊 GitHub Insights & Performance
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&count_private=true&include_all_commits=true&theme=rose_pine&hide_border=true&title_color=ff4d88&icon_color=ff80ab&text_color=e0def4&cache_seconds=300" height="170px" alt="Arsema's GitHub Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&count_private=true&include_all_commits=true&theme=rose_pine&hide_border=true&title_color=ff4d88&icon_color=ff80ab&text_color=e0def4" height="170px" alt="Arsema's GitHub Stats" />
-
-  <img src="https://streak-stats.demolab.com/?user=Arsema13&theme=rose_pine&hide_border=true&ring=ff4d88&fire=ff4d88&currStreakLabel=ff4d88&sideLabels=ff4d88&sideNums=ff80ab&dates=e0def4&disable_animations=true" height="170px" alt="GitHub Streak" />
-
+  <img src="https://streak-stats.demolab.com/?user=Arsema13&theme=rose_pine&hide_border=true&ring=ff4d88&fire=ff4d88&currStreakLabel=ff4d88&sideLabels=ff4d88&sideNums=ff80ab&dates=e0def4" height="170px" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsema13&layout=compact&count_private=true&theme=rose_pine&hide_border=true&title_color=ff4d88&text_color=e0def4" height="170px" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsema13&layout=compact&count_private=true&theme=rose_pine&hide_border=true&title_color=ff4d88&text_color=e0def4&cache_seconds=300" height="170px" alt="Most Used Languages" />
 </p>
 
 ---
