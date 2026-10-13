@@ -27,6 +27,10 @@
 ### 📊 GitHub Insights & Performance
 
 <p align="center">
+  <img src="https://github-profile-trophy.js.org/?username=Arsema13&theme=rose_pine&column=5&margin-w=10&no-frame=false" width="100%" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&count_private=true&include_all_commits=true&theme=rose_pine&hide_border=true&title_color=ff4d88&icon_color=ff80ab&text_color=e0def4&cache_seconds=300" height="170px" alt="Arsema's GitHub Stats" />
 
   <img src="https://streak-stats.demolab.com/?user=Arsema13&theme=rose_pine&hide_border=true&ring=ff4d88&fire=ff4d88&currStreakLabel=ff4d88&sideLabels=ff4d88&sideNums=ff80ab&dates=e0def4" height="170px" alt="GitHub Streak" />
