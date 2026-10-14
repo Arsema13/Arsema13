@@ -18,12 +18,8 @@
   <a href="https://github.com/Arsema13">
     <img src="https://img.shields.io/badge/GitHub-Arsema13-ff4d88?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://harmonious-lily-9aedf0.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-ff80ab?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.tsverify.app">
-    <img src="https://img.shields.io/badge/Google_Play-Published_App-ff4d88?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"/>
-  </a>
+  
+
 </p>
 
 ---
