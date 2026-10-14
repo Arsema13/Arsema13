@@ -1,141 +1,148 @@
 
 <div align="center">
 
-  <h1 style="color:#D4AF37;">✦ Welcome to My GitHub World ✦</h1>
+# Welcome to My GitHub Profile
 
-  <img src="https://komarev.com/ghpvc/?username=Arsema13&label=PROFILE+VIEWS&color=D4AF37&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Arsema13&label=PROFILE+VIEWS&color=00D2C8&style=flat-square" alt="Profile views" />
 
-  <br><br>
+<br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Mobile+%26+Full-Stack+Developer;Building+Useful+Digital+Experiences;Flutter+%7C+React+%7C+Node.js;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=00D2C8&center=true&vCenter=true&width=650&lines=Mobile+%26+Full-Stack+Developer;Flutter+%7C+React+%7C+Node.js;Building+Practical+Digital+Solutions;Continuous+Learning+and+Growth" alt="Developer introduction" />
 
 </div>
 
 ---
 
-## ✦ About Me
+## About Me
 
-- Mobile and Full-Stack Developer passionate about building practical digital products.
-- Experienced in developing mobile applications and web applications.
-- Worked with payment integrations, REST APIs, databases, and authentication systems.
-- Interested in creating clean, responsive, and user-friendly experiences.
-- Always learning new technologies and improving my development skills.
+I am a software developer focused on building reliable mobile and web applications. I enjoy turning ideas into practical digital solutions through clean interfaces, maintainable code, and thoughtful user experiences.
+
+- Mobile application development with Flutter and Dart
+- Full-stack web development with React, Next.js, and Node.js
+- Backend services, REST APIs, and database integration
+- Payment integration and authentication workflows
+- Continuous learning and collaborative software development
 
 ---
 
-## ✦ Tech Stack
+## Technical Skills
 
 <div align="center">
 
 ### Mobile Development
-<img src="https://img.shields.io/badge/Flutter-D4AF37?style=for-the-badge&logo=flutter&logoColor=171717" />
-<img src="https://img.shields.io/badge/Dart-D4AF37?style=for-the-badge&logo=dart&logoColor=171717" />
-<img src="https://img.shields.io/badge/React_Native- D4AF37?style=for-the-badge&logo=react&logoColor=171717" />
+
+<img src="https://img.shields.io/badge/Flutter-00D2C8?style=for-the-badge&logo=flutter&logoColor=0B132B" alt="Flutter" />
+<img src="https://img.shields.io/badge/Dart-00D2C8?style=for-the-badge&logo=dart&logoColor=0B132B" alt="Dart" />
 
 ### Frontend Development
-<img src="https://img.shields.io/badge/React-D4AF37?style=for-the-badge&logo=react&logoColor=171717" />
-<img src="https://img.shields.io/badge/Next.js-D4AF37?style=for-the-badge&logo=nextdotjs&logoColor=171717" />
-<img src="https://img.shields.io/badge/JavaScript-D4AF37?style=for-the-badge&logo=javascript&logoColor=171717" />
-<img src="https://img.shields.io/badge/HTML5-D4AF37?style=for-the-badge&logo=html5&logoColor=171717" />
-<img src="https://img.shields.io/badge/CSS3-D4AF37?style=for-the-badge&logo=css3&logoColor=171717" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-D4AF37?style=for-the-badge&logo=tailwindcss&logoColor=171717" />
 
-### Backend & Database
-<img src="https://img.shields.io/badge/Node.js-D4AF37?style=for-the-badge&logo=nodedotjs&logoColor=171717" />
-<img src="https://img.shields.io/badge/Express.js-D4AF37?style=for-the-badge&logo=express&logoColor=171717" />
-<img src="https://img.shields.io/badge/PostgreSQL-D4AF37?style=for-the-badge&logo=postgresql&logoColor=171717" />
-<img src="https://img.shields.io/badge/Firebase-D4AF37?style=for-the-badge&logo=firebase&logoColor=171717" />
-<img src="https://img.shields.io/badge/Supabase-D4AF37?style=for-the-badge&logo=supabase&logoColor=171717" />
+<img src="https://img.shields.io/badge/React-00D2C8?style=for-the-badge&logo=react&logoColor=0B132B" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-00D2C8?style=for-the-badge&logo=nextdotjs&logoColor=0B132B" alt="Next.js" />
+<img src="https://img.shields.io/badge/JavaScript-00D2C8?style=for-the-badge&logo=javascript&logoColor=0B132B" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-00D2C8?style=for-the-badge&logo=html5&logoColor=0B132B" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-00D2C8?style=for-the-badge&logo=css3&logoColor=0B132B" alt="CSS3" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-00D2C8?style=for-the-badge&logo=tailwindcss&logoColor=0B132B" alt="Tailwind CSS" />
 
-### Tools & Integrations
-<img src="https://img.shields.io/badge/Git-D4AF37?style=for-the-badge&logo=git&logoColor=171717" />
-<img src="https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=171717" />
-<img src="https://img.shields.io/badge/Postman-D4AF37?style=for-the-badge&logo=postman&logoColor=171717" />
-<img src="https://img.shields.io/badge/Chapa-D4AF37?style=for-the-badge&logoColor=171717" />
+### Backend and Databases
+
+<img src="https://img.shields.io/badge/Node.js-00D2C8?style=for-the-badge&logo=nodedotjs&logoColor=0B132B" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-00D2C8?style=for-the-badge&logo=express&logoColor=0B132B" alt="Express.js" />
+<img src="https://img.shields.io/badge/PostgreSQL-00D2C8?style=for-the-badge&logo=postgresql&logoColor=0B132B" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Firebase-00D2C8?style=for-the-badge&logo=firebase&logoColor=0B132B" alt="Firebase" />
+<img src="https://img.shields.io/badge/Supabase-00D2C8?style=for-the-badge&logo=supabase&logoColor=0B132B" alt="Supabase" />
+
+### Tools and Integrations
+
+<img src="https://img.shields.io/badge/Git-00D2C8?style=for-the-badge&logo=git&logoColor=0B132B" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-00D2C8?style=for-the-badge&logo=github&logoColor=0B132B" alt="GitHub" />
+<img src="https://img.shields.io/badge/Postman-00D2C8?style=for-the-badge&logo=postman&logoColor=0B132B" alt="Postman" />
+<img src="https://img.shields.io/badge/Chapa-00D2C8?style=for-the-badge&logoColor=0B132B" alt="Chapa payments" />
 
 </div>
 
 ---
 
-## ✦ Experience & Professional Development
+## Experience and Professional Development
 
-- **Mobile Development:** Building cross-platform applications with Flutter and Dart.
-- **Full-Stack Development:** Developing frontend interfaces, backend services, APIs, and database integrations.
-- **Payment Integration:** Working with Chapa payment integration for web and mobile applications.
+- **Mobile Development:** Building cross-platform applications using Flutter and Dart.
+- **Full-Stack Development:** Implementing frontend interfaces, backend services, REST APIs, and database integrations.
+- **Payment Integration:** Integrating Chapa payments into web and mobile applications.
 - **Professional Development:** ALX Virtual Assistant certification and continued technical learning.
 
 ---
 
-## ✦ GitHub Achievements
+## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Arsema13&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Arsema13&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub achievements" />
 
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&hide_border=true&bg_color=000000&title_color=D4AF37&icon_color=D4AF37&text_color=F8F5EC&ring_color=D4AF37" alt="GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Arsema13&show_icons=true&hide_border=true&bg_color=0B132B&title_color=00D2C8&icon_color=00D2C8&text_color=FFFFFF" alt="GitHub statistics" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsema13&layout=compact&hide_border=true&bg_color=000000&title_color=D4AF37&text_color=F8F5EC" alt="Top languages" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Arsema13&hide_border=true&background=000000&ring=D4AF37&fire=F5B700&currStreakLabel=D4AF37&sideLabels=F8F5EC&currStreakNum=F8F5EC&sideNums=F8F5EC&dates=BDB6A5" alt="GitHub contribution streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsema13&layout=compact&hide_border=true&bg_color=0B132B&title_color=00D2C8&text_color=FFFFFF" alt="Most used languages" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsema13&bg_color=000000&color=F8F5EC&line=D4AF37&point=F5B700&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+<img src="https://streak-stats.demolab.com?user=Arsema13&hide_border=true&background=0B132B&ring=00D2C8&fire=00D2C8&currStreakLabel=00D2C8&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B8C1D9" alt="GitHub contribution streak" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arsema13&bg_color=0B132B&color=FFFFFF&line=00D2C8&point=00D2C8&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
 
 </div>
 
 ---
 
-## ✦ Projects
+## Projects
 
-### 📱 Mobile Development (Flutter)
+### Mobile Development (Flutter)
 
-[![Medvora Pharmacy](https://img.shields.io/badge/💊_Medvora_Pharmacy-FF4D88?style=for-the-badge)](https://github.com/Arsema13/Medvora_Pharmacy_App)
-[![Kids Learning](https://img.shields.io/badge/🎨_Kids_Learning-FF80AB?style=for-the-badge)](https://github.com/Arsema13/kid-s-learning-platfrom)
-[![News App](https://img.shields.io/badge/📰_News_App-F06292?style=for-the-badge)](https://github.com/Arsema13/flutter_news_app)
-[![Weather App](https://img.shields.io/badge/☁️_Weather_App-FF4D88?style=for-the-badge)](https://github.com/Arsema13/flutter_weather_app)
-[![Study Buddy](https://img.shields.io/badge/📚_Study_Buddy-FF80AB?style=for-the-badge)](https://github.com/uvatarkind/Guade_study-buddy_flutter)
-[![Quiz App](https://img.shields.io/badge/🧠_Quiz_App-F06292?style=for-the-badge)](https://github.com/Arsema13/flutter_quiz_app)
-[![BMI Calculator](https://img.shields.io/badge/⚖️_BMI_Calculator-FF4D88?style=for-the-badge)](https://github.com/Arsema13/flutter_BMI_Calculator)
-[![FunFact App](https://img.shields.io/badge/💡_FunFact_App-FF80AB?style=for-the-badge)](https://github.com/Arsema13/flutter_Funfact_app)
+[![Medvora Pharmacy](https://img.shields.io/badge/Medvora_Pharmacy-FF4D88?style=for-the-badge)](https://github.com/Arsema13/Medvora_Pharmacy_App)
+[![Kids Learning](https://img.shields.io/badge/Kids_Learning-FF80AB?style=for-the-badge)](https://github.com/Arsema13/kid-s-learning-platfrom)
+[![News App](https://img.shields.io/badge/News_App-F06292?style=for-the-badge)](https://github.com/Arsema13/flutter_news_app)
+[![Weather App](https://img.shields.io/badge/Weather_App-FF4D88?style=for-the-badge)](https://github.com/Arsema13/flutter_weather_app)
+[![Study Buddy](https://img.shields.io/badge/Study_Buddy-FF80AB?style=for-the-badge)](https://github.com/uvatarkind/Guade_study-buddy_flutter)
+[![Quiz App](https://img.shields.io/badge/Quiz_App-F06292?style=for-the-badge)](https://github.com/Arsema13/flutter_quiz_app)
+[![BMI Calculator](https://img.shields.io/badge/BMI_Calculator-FF4D88?style=for-the-badge)](https://github.com/Arsema13/flutter_BMI_Calculator)
+[![FunFact App](https://img.shields.io/badge/FunFact_App-FF80AB?style=for-the-badge)](https://github.com/Arsema13/flutter_Funfact_app)
 
-### 🌐 Web & AI
+### Web and AI
 
-[![Printing Order Web](https://img.shields.io/badge/🖨️_Printing_Order_Web-F06292?style=for-the-badge)](https://github.com/Arsema13/printing-service)
-[![Portfolio AI](https://img.shields.io/badge/🤖_Portfolio_AI-FF4D88?style=for-the-badge)](https://github.com/Arsema13/pa)
-[![Compass Menu](https://img.shields.io/badge/🧭_Compass_Menu-FF80AB?style=for-the-badge)](https://github.com/Arsema13/campus-menu-compass-IP2)
-[![GDG Practices](https://img.shields.io/badge/🎯_GDG_Practices-F06292?style=for-the-badge)](https://github.com/Arsema13/2025-project-phase-mobile-tasks-gdg-group-1)
+[![Printing Order Web](https://img.shields.io/badge/Printing_Order_Web-F06292?style=for-the-badge)](https://github.com/Arsema13/printing-service)
+[![Portfolio AI](https://img.shields.io/badge/Portfolio_AI-FF4D88?style=for-the-badge)](https://github.com/Arsema13/pa)
+[![Compass Menu](https://img.shields.io/badge/Compass_Menu-FF80AB?style=for-the-badge)](https://github.com/Arsema13/campus-menu-compass-IP2)
+[![GDG Practices](https://img.shields.io/badge/GDG_Practices-F06292?style=for-the-badge)](https://github.com/Arsema13/2025-project-phase-mobile-tasks-gdg-group-1)
 
 ---
 
-## ✦ Let's Connect
+## Contact
 
 <div align="center">
 
-<a href="https://t.me/Lilyteoes">
-  <img src="https://img.shields.io/badge/Telegram-D4AF37?style=for-the-badge&logo=telegram&logoColor=171717" alt="Telegram" />
-</a>
 <a href="mailto:arsematewodros123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=171717" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-00D2C8?style=for-the-badge&logo=gmail&logoColor=0B132B" alt="Email" />
 </a>
 <a href="https://www.linkedin.com/in/arsema-tewodros-783b41370/">
-  <img src="https://img.shields.io/badge/LinkedIn-D4AF37?style=for-the-badge&logo=linkedin&logoColor=171717" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-00D2C8?style=for-the-badge&logo=linkedin&logoColor=0B132B" alt="LinkedIn" />
+</a>
+<a href="https://t.me/Lilyteoes">
+  <img src="https://img.shields.io/badge/Telegram-00D2C8?style=for-the-badge&logo=telegram&logoColor=0B132B" alt="Telegram" />
 </a>
 <a href="https://github.com/Arsema13">
-  <img src="https://img.shields.io/badge/GitHub-D4AF37?style=for-the-badge&logo=github&logoColor=171717" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-00D2C8?style=for-the-badge&logo=github&logoColor=0B132B" alt="GitHub" />
 </a>
 
 <br><br>
 
-**Thanks for visiting my GitHub profile!**
+**Thank you for visiting my profile.**
 
-*Building with purpose. Learning with curiosity. Growing with every commit.*
+Building practical solutions through continuous learning and thoughtful development.
 
-<sub>© Arsema Tewodros · 2026 ✦</sub>
+<br>
+
+<sub>Arsema Tewodros | 2026</sub>
 
 </div>
 ```
